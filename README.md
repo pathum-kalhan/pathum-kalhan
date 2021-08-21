@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-
-**pathum-kalhan/pathum-kalhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ 4+ applicable years of full-stack industry expreince.
+- ⚡ 4+ years of applicable industry expreince in full-stack development.
 - 🔥 Good at JavaScript, React.js, Vue.js, Node.js, Express.js, MySQL and mongoDB.
-- 👨‍🏭 Expreince in Education,Finance, Food industry, E-commerce and ERP domains.
-- 
-- 
+- 👨‍🏭 Worked in Education,Finance, Food industry, E-commerce and ERP domains.
+- ❤️ Passionate to work with [anything].js / cutting edge.
 
